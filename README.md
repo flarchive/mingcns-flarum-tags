@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of mingcns/flarum-tags.** Not for installation: use [Packagist](https://packagist.org/packages/mingcns/flarum-tags) or the [upstream repository](https://github.com/mingcns/flarum-tags).
 
-**0** versions archived · Latest: [`v1.8.0`](https://github.com/flarchive/mingcns-flarum-tags/tree/archive/v1.8.0) · License: `MIT` · Flarum: `^1.8`
+**1** versions archived · Latest: [`v1.8.0`](https://github.com/flarchive/mingcns-flarum-tags/tree/archive/v1.8.0) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.8.0` | 2023-05-20 | `^1.8` | [Browse](https://github.com/flarchive/mingcns-flarum-tags/tree/archive/v1.8.0) |
 
 Catalog entry: [packages/mingcns-flarum-tags.json](https://github.com/flarchive/archive-index/blob/main/packages/mingcns-flarum-tags.json)
 
